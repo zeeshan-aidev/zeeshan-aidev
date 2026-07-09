@@ -38,6 +38,6 @@
 ## 📫 Connect with me
 
 - GitHub: https://github.com/zeeshan-aidev
-- LinkedIn: linkedin.com/in/zeeshan-ali
+- LinkedIn: https://www.linkedin.com/in/zeeshan-ali-1656b5369/
 
 ⭐ Thanks for visiting my profile!
