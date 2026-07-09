@@ -12,7 +12,6 @@
 
 - 🤖 Instagram View Tracker
 - 📚 Notes Sharing Platform (NSP)
-- 🌐 Full Stack Development
 - 🧠 Artificial Intelligence
 - ⚡ Python Automation
 
